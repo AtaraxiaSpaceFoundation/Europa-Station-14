@@ -3,5 +3,7 @@
 <p align="center">
   Ваш проводник в космический симулятор безумия!<br>
   Основан на идеях <a href="https://github.com/tgstation/tgstation">/tg/station</a> и <a href="https://github.com/shiptest-ss13/Shiptest">Shiptest</a> из Space Station 13.
+</p>
+<p align="center">
   https://github.com/AtaraxiaSpaceFoundation/Orion-Station-14
 </p>
